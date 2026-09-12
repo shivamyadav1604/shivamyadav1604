@@ -16,6 +16,8 @@
 
 To continuously expand my technical skills, build meaningful projects, and contribute to technology that creates a real-world impact. 
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivam_yadav1626) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamyadav1604) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shiv121yad)
+
 
 <!-- Snake Game Repo View -->
 
